@@ -1,0 +1,2 @@
+se crearon las tablas, y se creo un metodo estatico (el ejemplo en el lab)
+pendiente crear los otros metodos estaticos.
